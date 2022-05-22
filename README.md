@@ -1,0 +1,2 @@
+# .github
+RapidOM .github metarepository
